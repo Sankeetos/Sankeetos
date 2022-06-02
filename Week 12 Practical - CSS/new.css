@@ -21,4 +21,4 @@ body { background-color: var(--c-background-color); }
 
 header, footer { background-color: var(--c-background-highlights); }
 
-main, footer, header {text-decoration-color: var(--base-font-color);}
+main, footer, header {text-emphasis-color: var(--base-font-color);}
