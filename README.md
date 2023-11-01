@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Sankeetos
 - 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m a second year student studying a Bachelor of Software Engineering.
 
 
 <!---
