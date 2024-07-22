@@ -1,6 +1,5 @@
 - 👋 Hello, I’m @Sankeetos
-- 👀 I’m interested in Front-End Development.
-- 🌱 I’m a second year student studying a Bachelor of Software Engineering.
+- 🌱 I’m a third year student studying a Bachelor of Software Engineering.
 
 
 <!---
