@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Sankeetos
-- 🌱 I’m a third year student studying a Bachelor of Software Engineering.
+- 🌱 I’m a Graduate Software Engineer.
 
 
 <!---
